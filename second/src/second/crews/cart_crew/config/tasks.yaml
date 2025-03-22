@@ -1,0 +1,6 @@
+find_items:
+  description: >
+    Search for items online based on user queries and retrieve relevant product details.
+  expected_output: >
+    A list of products with details such as name, price, and availability.
+  agent: item_finder
